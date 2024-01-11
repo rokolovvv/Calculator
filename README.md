@@ -1,6 +1,6 @@
 # Calculator
 This is my first project with using JS language. It is Calculator!
-I want to tell you a short instruction how it works.
+And I want to tell you a short instruction how it works.
 So,to begin, you need to perform the action of entering numbers:
 First, enter the first number in the field labeled "a".
 Then Select a mathematical operation using the drop-down list.
